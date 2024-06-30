@@ -1,82 +1,54 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"><b>𝘽𝙇𝘼𝘾𝙆 𝙋𝘼𝙉𝙏𝙃𝙀𝙍 𝙈𝘿 ✅𝗩𝗫5</b>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Black+Panther+MD+Created+By+Ibrahim..&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>                       
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/ec8ce4af1d8fa3271e26a.jpg" alt="01" border="0" /></a>     
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+##
+<h1 align="center"> 𝐕𝐄𝐍𝐎𝐌-𝐌𝐃
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/kissing.gif" width ="80"></h1> 
+ <br>
+
+
+      
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐕𝐄𝐍𝐎𝐌-𝐌𝐃;𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+BY+𝐇𝐀𝐌𝐌𝐘" alt="Typing SVG" /></a>
+  </p>
+
+
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/ec254e5749e89040e0650.jpg" alt="01" border="0" /></a>                     
+
+## WhatsApp Channel
+
+Join our WhatsApp channel for updates and discussions!
+
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vagq4pN9hXEy6SpCDi0X")
+
+
+#### SETUP
+
+1.𝔽𝕠𝕣𝕜 𝕥𝕙𝕖 𝕣𝕖𝕡𝕠
+    <br>
+<a href='https://github.com/Hammy254/VENOM-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
+
+
+
+2.𝔾𝕖𝕥 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻 (ℙ𝔸𝕀ℝ𝕀ℕ𝔾)
+    <br>
+<a href='https://venom-pairing.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
+
+
+3.𝔾𝕖𝕥 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻 (𝕊ℂ𝔸ℕ ℚℝ)
+    <br>
+<a href='https://venom-pairing.onrender.com/Qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
+
+## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔
+<h1 align="center">
  
-![Aaaaand many more](res/readme/context.gif)
-
- ## Join my channel for updates and get free cc
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Hammy254/VENOM-MD)***
 
 
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## License
 
- ## DEPLOYMENT METHODS
+The *VENOM-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-# .1
-[![FORK BLACK-PANTHER-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD/fork)
+☣Powered by 𝐕-𝐓𝐄𝐂𝐇
 
- 
-# .2
-<a href="https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-# .3
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/IBRAHIM-TECH-AI/DEPLOYMENT-SITE/tree/main)
-
-<br>
-
- # .4
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/kqO_n5?referralCode=AqkNn4)
-
-<br>
-
-# .5
-<p align=""><a href="https://repl.it/github/ibrahimaitech/BLACK-PANTHER-MD"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
+### 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎:
+   𝐇𝐀𝐌𝐌𝐘
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
- ## How To Deploy Black Panther
- 
-𝙵𝙸𝚁𝚂𝚃 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾.
-
-
-𝚂𝙲𝙰𝙽 𝚂𝙴𝚂𝚂𝙸𝙾𝙽.
-
-
-𝚃𝙷𝙴𝙽 𝙳𝙴𝙿𝙻𝙾𝚈 𝙾𝙽 𝙷𝙴𝚁𝙾𝙺𝚄.
-
-
-𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙴 𝙱𝙾𝚃.
-
-   ## 🚀 `Bot Features`
-| Feature                          | Description                                             | Available    | Version    |
-| ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
-| Multi-Device Support             | Operate the bot on multiple devices simultaneously     | ✅           | 2.0        |
-| AI Photo Enhancement             | Enhance photos using advanced AI algorithms            | ✅           | 2.0        |
-| Downloader Commands              | Download various types of content from the internet     | ✅           | 2.0        |
-| Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 2.0        |
-| Logo Commands                    | Generate logos using specialized commands               | ✅           | 2.0        |
-| Anime Commands                   | Explore anime-related commands and features              | ✅           | 2.0        |
-| Economy Menu                     | Engage in economic activities within the bot            | ✅           | 2.0        |
-| Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 2.0        |
-| Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 2.0        |
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<br/> <div align="center">
-[![github](https://github.com/github.png?size=100)](https://github.com/ibrahimaitech)[![Heroku](https://github.com/heroku.png?size=100)](#click-here-to-deploy)[![replit](https://github.com/replit.png?size=100)](https://github.com/ibrahimaitech) [![whatsapp](https://github.com/whatsapp.png?size=89)](https://ibrahimaitech)[![bot](https://github.com/youtube.png?size=89)](https://github.com/ibrahimaitech)[![Heroku](https://github.com/facebook.png?size=89)](https://ibrahimaitech)[![Heroku](https://github.com/instagram.png?size=89)](https://github.com/ibrahimaitech)[![Heroku](https://github.com/you-tube.png?size=89)](https://github.com/ibrahimaitech)<br/>
-</div>
-## 𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 
-
-[`GOD🙏`]
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
